@@ -10,7 +10,7 @@
 madhavraj2004/madhavraj2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I'm Madhav Raj
+
 
 ## 🚀 About Me  
 Remote-ready full-stack developer with a strong focus on **WordPress development**, **mobile applications**, and **content-driven platforms**. 
