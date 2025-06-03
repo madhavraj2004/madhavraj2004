@@ -41,7 +41,6 @@ Remote-ready full-stack developer with a strong focus on **WordPress development
   - Published insightful content like *“Changing the Mindset”* and *“Positive Thinking”*  
   - Enhanced mobile responsiveness and accessibility  
   - Improved layout using theme customization  
-  - Integrated SEO and content structuring best practices  
   - Exported content in XML format for backup and migration  
 - **Skills Applied:** WordPress CMS, SEO fundamentals, UI/UX, content curation  
 - **Link:** [Blog on WordPress](https://rajmadhav004.wordpress.com/)  
