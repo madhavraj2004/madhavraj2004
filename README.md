@@ -2,7 +2,7 @@
 - 👀 I’m interested in making world better place with coding...
 - 🌱 I’m currently learning android app development ,mern stack.
 - 💞️ I’m looking to collaborate on project jarvis 
-- 📫 You can reach me at mail- raj,madhav2004@gmail.com
+- 📫 You can reach me at mail- raj.madhav2004@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...save the world by coding...
 
